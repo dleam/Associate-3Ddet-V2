@@ -88,12 +88,15 @@ We thank [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) for the great work
 If you find this project useful in your research, please consider citing:
 
 ```
-@inproceedings{du2021ago,
-  title={AGO-Net: Association-Guided 3D Point Cloud Object Detection Network},
+@ARTICLE{9511841,
   author={Du, Liang and Ye, Xiaoqing and Tan, Xiao and Johns, Edward and Chen, Bo and Ding, Errui and Xue, Xiangyang and Feng, Jianfeng},
-  booktitle={pami},
-  year={2021}
-}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={AGO-Net: Association-Guided 3D Point Cloud Object Detection Network}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TPAMI.2021.3104172}}
 ```
 
 ## Contact
