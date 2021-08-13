@@ -1,6 +1,6 @@
 # Associate-3Ddet-V2
 
-Implementation of [Association-Guided 3D Point Cloud Object Detection Network](https://ieeexplore.ieee.org/document/9511841) (to be updated.)
+Implementation of [Association-Guided 3D Point Cloud Object Detection Network](https://ieeexplore.ieee.org/document/9511841) (2021)
 
 ## Requirements
 
